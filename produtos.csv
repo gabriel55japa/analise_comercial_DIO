@@ -1,0 +1,6 @@
+Produto,Descricao,Categoria,Preco_Medio,Margem;;
+SKU001,Biscoito Integral 200g,Biscoitos,5.00,0.30;;
+SKU002,Chocolate ao Leite 90g,Chocolates,8.00,0.35;;
+SKU003,Formula Infantil 400g,Nutricao,12.00,0.40;;
+SKU004,Racao Premium 10kg,PetFood,20.00,0.25;;
+SKU005,Suco Natural 1L,Bebidas,4.00,0.20;;

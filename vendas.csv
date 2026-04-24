@@ -1,0 +1,31 @@
+Data,Vendedor,Cliente,Produto,Categoria,Regiao,Canal,Quantidade,Valor_Unitario,Valor_Total
+2026-01-01,V001,Cliente_A,SKU001,Biscoitos,Sul,Varejo,12,5.00,60.00
+2026-01-01,V002,Cliente_B,SKU002,Chocolates,Sudeste,Atacado,8,8.00,64.00
+2026-01-02,V003,Cliente_C,SKU003,Nutricao,Norte,Varejo,5,12.00,60.00
+2026-01-02,V004,Cliente_D,SKU004,PetFood,Nordeste,Varejo,3,20.00,60.00
+2026-01-03,V001,Cliente_E,SKU005,Bebidas,Sul,Varejo,20,4.00,80.00
+2026-01-03,V002,Cliente_A,SKU001,Biscoitos,Sudeste,Key Account,15,5.00,75.00
+2026-01-04,V003,Cliente_B,SKU002,Chocolates,Norte,Varejo,10,8.00,80.00
+2026-01-04,V004,Cliente_C,SKU003,Nutricao,Nordeste,Varejo,7,12.00,84.00
+2026-01-05,V001,Cliente_D,SKU004,PetFood,Sul,Varejo,4,20.00,80.00
+2026-01-05,V002,Cliente_E,SKU005,Bebidas,Sudeste,Atacado,30,4.00,120.00
+2026-01-06,V003,Cliente_A,SKU001,Biscoitos,Norte,Varejo,9,5.00,45.00
+2026-01-06,V004,Cliente_B,SKU002,Chocolates,Nordeste,Varejo,6,8.00,48.00
+2026-01-07,V001,Cliente_C,SKU003,Nutricao,Sul,Varejo,11,12.00,132.00
+2026-01-07,V002,Cliente_D,SKU004,PetFood,Sudeste,Key Account,5,20.00,100.00
+2026-01-08,V003,Cliente_E,SKU005,Bebidas,Norte,Varejo,25,4.00,100.00
+2026-01-08,V004,Cliente_A,SKU001,Biscoitos,Nordeste,Varejo,13,5.00,65.00
+2026-01-09,V001,Cliente_B,SKU002,Chocolates,Sul,Varejo,7,8.00,56.00
+2026-01-09,V002,Cliente_C,SKU003,Nutricao,Sudeste,Atacado,6,12.00,72.00
+2026-01-10,V003,Cliente_D,SKU004,PetFood,Norte,Varejo,4,20.00,80.00
+2026-01-10,V004,Cliente_E,SKU005,Bebidas,Nordeste,Varejo,18,4.00,72.00
+2026-01-11,V001,Cliente_A,SKU001,Biscoitos,Sul,Varejo,14,5.00,70.00
+2026-01-11,V002,Cliente_B,SKU002,Chocolates,Sudeste,Key Account,9,8.00,72.00
+2026-01-12,V003,Cliente_C,SKU003,Nutricao,Norte,Varejo,6,12.00,72.00
+2026-01-12,V004,Cliente_D,SKU004,PetFood,Nordeste,Varejo,3,20.00,60.00
+2026-01-13,V001,Cliente_E,SKU005,Bebidas,Sul,Varejo,22,4.00,88.00
+2026-01-13,V002,Cliente_A,SKU001,Biscoitos,Sudeste,Atacado,18,5.00,90.00
+2026-01-14,V003,Cliente_B,SKU002,Chocolates,Norte,Varejo,11,8.00,88.00
+2026-01-14,V004,Cliente_C,SKU003,Nutricao,Nordeste,Varejo,9,12.00,108.00
+2026-01-15,V001,Cliente_D,SKU004,PetFood,Sul,Varejo,5,20.00,100.00
+2026-01-15,V002,Cliente_E,SKU005,Bebidas,Sudeste,Key Account,35,4.00,140.00
